@@ -1,4 +1,4 @@
-[![Build status](https://dev.azure.com/liyi9487/course-lab/_apis/build/status/course-lab-ASP.NET-CI)](https://dev.azure.com/liyi9487/course-lab/_build/latest?definitionId=-1)
+[![Build status](https://dev.azure.com/liyi9487/course-lab/_apis/build/status/course-lab-ASP.NET-CI?branchName=master)
 
 # Line Notify Example
 
