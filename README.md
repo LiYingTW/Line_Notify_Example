@@ -1,5 +1,7 @@
 [![Build status][![Build status](https://dev.azure.com/liyi9487/course-lab/_apis/build/status/course-lab-ASP.NET-CI)](https://dev.azure.com/liyi9487/course-lab/_build/latest?definitionId=-1&branchName=master)
 
+[![Build status](https://dev.azure.com/liyi9487/course-lab/_apis/build/status/course-lab-ASP.NET-CI)](https://dev.azure.com/liyi9487/course-lab/_build/latest?definitionId=-1)
+
 # Line Notify Example
 
 <br/>這個範例展示如何使用 Line Notify ，透過OAuth取得可發送Line訊息給用戶的Token
